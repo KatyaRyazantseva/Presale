@@ -1,1 +1,1 @@
-# Simple Presale Solidity Smart-contract and web-site
+### Simple Presale Solidity Smart-contract and web-site
